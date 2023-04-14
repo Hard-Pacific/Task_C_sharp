@@ -1,0 +1,15 @@
+D:\C_SHARP\Task_C_sharp\Task_C_sharp\obj\Debug\net6.0\Task_C_sharp.csproj.AssemblyReference.cache
+D:\C_SHARP\Task_C_sharp\Task_C_sharp\obj\Debug\net6.0\Task_C_sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_SHARP\Task_C_sharp\Task_C_sharp\obj\Debug\net6.0\Task_C_sharp.AssemblyInfoInputs.cache
+D:\C_SHARP\Task_C_sharp\Task_C_sharp\obj\Debug\net6.0\Task_C_sharp.AssemblyInfo.cs
+D:\C_SHARP\Task_C_sharp\Task_C_sharp\obj\Debug\net6.0\Task_C_sharp.csproj.CoreCompileInputs.cache
+D:\C_SHARP\Task_C_sharp\Task_C_sharp\bin\Debug\net6.0\Task_C_sharp.exe
+D:\C_SHARP\Task_C_sharp\Task_C_sharp\bin\Debug\net6.0\Task_C_sharp.deps.json
+D:\C_SHARP\Task_C_sharp\Task_C_sharp\bin\Debug\net6.0\Task_C_sharp.runtimeconfig.json
+D:\C_SHARP\Task_C_sharp\Task_C_sharp\bin\Debug\net6.0\Task_C_sharp.dll
+D:\C_SHARP\Task_C_sharp\Task_C_sharp\bin\Debug\net6.0\Task_C_sharp.pdb
+D:\C_SHARP\Task_C_sharp\Task_C_sharp\obj\Debug\net6.0\Task_C_sharp.dll
+D:\C_SHARP\Task_C_sharp\Task_C_sharp\obj\Debug\net6.0\refint\Task_C_sharp.dll
+D:\C_SHARP\Task_C_sharp\Task_C_sharp\obj\Debug\net6.0\Task_C_sharp.pdb
+D:\C_SHARP\Task_C_sharp\Task_C_sharp\obj\Debug\net6.0\Task_C_sharp.genruntimeconfig.cache
+D:\C_SHARP\Task_C_sharp\Task_C_sharp\obj\Debug\net6.0\ref\Task_C_sharp.dll
